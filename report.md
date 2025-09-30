@@ -1,6 +1,6 @@
 # 41343110
 
-Homework1_Problem1
+###Homework1_Problem1
 
 ## 解題說明
 
@@ -99,7 +99,7 @@ $ ./sigma
 
 透過遞迴實作 Sigma 計算，程式邏輯簡單且易於理解，特別適合展示遞迴的核心思想。然而，遞迴會因堆疊深度受到限制，當 $n$ 值過大時，應考慮使用迭代版本來避免 Stack Overflow 問題。
 
-Homework1_Problem2
+###Homework1_Problem2
 
 ## 解題說明
 
